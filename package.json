@@ -1,5 +1,5 @@
 {
-  "name": "web3.0_typescript_project04_currency_converter",
+  "name": "inquirer_currency_converter_04_zm",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,8 +11,18 @@
     "type": "git",
     "url": "git+https://github.com/muhammadzubairmoosani/web3.0_typeScript_project04_currency_converter.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "TypeScript",
+    "currency converter",
+    "inquirer",
+    "CLI",
+    "financial",
+    "exchange rate",
+    "command line interface",
+    "money"
+  ],
+  "bin": "./index.js",
+  "author": "Zubair Moosani",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/muhammadzubairmoosani/web3.0_typeScript_project04_currency_converter/issues"
